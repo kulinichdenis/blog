@@ -1,0 +1,3 @@
+kubectl apply -f posts.yaml
+kubectl get pods - all pods
+kubectl delete pod posts
